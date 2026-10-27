@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Revisión",
+    "name": "Revisión de coches usados",
+    "description": "Inspección de vehículos de segunda mano anunciada en la web oficial."
+  },
+  {
+    "category": "Revisión",
+    "name": "ITV y certificación",
+    "description": "Preparación y gestión de ITV, según la información del negocio."
+  },
+  {
+    "category": "Mantenimiento",
+    "name": "Mecánica y electromecánica",
+    "description": "Diagnóstico y reparación de sistemas mecánicos y electrónicos."
+  },
+  {
+    "category": "Mantenimiento",
+    "name": "Mecánica rápida",
+    "description": "Servicios de mantenimiento publicados por el taller."
+  },
+  {
+    "category": "Confort y ruedas",
+    "name": "Neumáticos y alineación",
+    "description": "Cambio de neumáticos y alineación anunciado en la web oficial."
+  },
+  {
+    "category": "Confort y ruedas",
+    "name": "Climatización",
+    "description": "Revisión y reparación de aire acondicionado y calefacción."
+  }
+]

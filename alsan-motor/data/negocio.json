@@ -1,0 +1,17 @@
+{
+  "slug": "alsan-motor-php",
+  "name": "Alsan Motor",
+  "kind": "Taller mecánico · Pinto",
+  "headline": "Tu coche.<br>Todo en orden.",
+  "intro": "Una propuesta de web para explicar los servicios del taller de forma clara. Mecánica, mantenimiento y revisión de vehículos usados.",
+  "address": "Calle de Fuentevieja, 30 · 28320 Pinto, Madrid",
+  "phone": "600 00 00 00 / 600 00 00 00",
+  "email": "ejemplo@example.com",
+  "hours": "Horario pendiente de confirmar. No aparece en las páginas oficiales consultadas para este prototipo.",
+  "source": "https://alsanmotor.com/",
+  "distance": "Negocio de referencia: Alsan Motor, en Pinto. Proyecto independiente del restaurante, la ferretería y la pastelería.",
+  "section": "Qué necesita tu coche",
+  "note": "Servicios publicados en la web oficial. Este prototipo no reserva citas, no diagnostica averías y no confirma precios, plazos ni disponibilidad.",
+  "about": "La web oficial de Alsan Motor presenta un taller en Pinto con servicios de mecánica y revisión de vehículos usados, tanto en su taller como a nivel nacional. Esta propuesta es un ejercicio de desarrollo, no una web aprobada por la empresa.",
+  "image": "motor.svg"
+}

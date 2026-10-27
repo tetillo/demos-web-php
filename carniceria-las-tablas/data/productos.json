@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ternerayvacuno",
+    "nombre": "Ternera y vacuno",
+    "lema": "Lo mejor, bien cortado.",
+    "descripcion": "Ejemplo de sección para la carne de ternera: aquí iría una breve descripción real del negocio.",
+    "items": [
+      "Filetes",
+      "Carne picada",
+      "Guisar",
+      "Chuletón"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "polleria",
+    "nombre": "Pollería",
+    "lema": "Pollo fresco cada día.",
+    "descripcion": "Ejemplo de sección para el pollo y sus piezas.",
+    "items": [
+      "Pollo entero",
+      "Pechugas",
+      "Muslos",
+      "Alitas"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "cerdoyembutidos",
+    "nombre": "Cerdo y embutidos",
+    "lema": "Para el cocido y la barbacoa.",
+    "descripcion": "Ejemplo de sección para cerdo y elaborados.",
+    "items": [
+      "Lomo",
+      "Costillas",
+      "Chorizo",
+      "Hamburguesas"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "encargos",
+    "nombre": "Encargos",
+    "lema": "Pide con tiempo.",
+    "descripcion": "Ejemplo de sección sobre pedidos para celebraciones. No hay sistema de encargos real en este prototipo.",
+    "items": [
+      "Barbacoas",
+      "Celebraciones",
+      "Piezas enteras"
+    ],
+    "icono": "icono4"
+  }
+]

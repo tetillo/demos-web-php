@@ -1,0 +1,48 @@
+[
+  {
+    "id": "ramos",
+    "nombre": "Ramos",
+    "lema": "Para regalar.",
+    "descripcion": "Ejemplo de sección de ramos. Los precios y flores reales hay que confirmarlos.",
+    "items": [
+      "Ramos de temporada",
+      "Rosas",
+      "Ramos personalizados"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "plantas",
+    "nombre": "Plantas",
+    "lema": "Para casa y terraza.",
+    "descripcion": "Ejemplo de sección de plantas.",
+    "items": [
+      "Plantas de interior",
+      "Plantas de exterior"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "eventos",
+    "nombre": "Eventos",
+    "lema": "Bodas y celebraciones.",
+    "descripcion": "Ejemplo de sección de eventos.",
+    "items": [
+      "Bodas",
+      "Comuniones",
+      "Centros de mesa"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "ceremonias",
+    "nombre": "Ceremonias",
+    "lema": "Coronas y palmas.",
+    "descripcion": "Ejemplo de sección de ceremonias. Habría que confirmar si el negocio lo ofrece.",
+    "items": [
+      "Coronas",
+      "Palmas"
+    ],
+    "icono": "icono4"
+  }
+]

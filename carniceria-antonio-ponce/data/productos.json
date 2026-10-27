@@ -1,0 +1,50 @@
+[
+  {
+    "id": "carnes",
+    "nombre": "Carnes",
+    "lema": "Producto fresco.",
+    "descripcion": "Ejemplo de sección de carnes. El género real hay que confirmarlo.",
+    "items": [
+      "Ternera",
+      "Cerdo",
+      "Pollo",
+      "Cordero"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "charcuteria",
+    "nombre": "Charcutería",
+    "lema": "Para el bocadillo y la mesa.",
+    "descripcion": "Ejemplo de sección de charcutería.",
+    "items": [
+      "Jamón",
+      "Chorizo",
+      "Fiambres"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "preparados",
+    "nombre": "Preparados",
+    "lema": "Listo para cocinar.",
+    "descripcion": "Ejemplo de sección de elaborados.",
+    "items": [
+      "Hamburguesas",
+      "Albóndigas",
+      "Adobos"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "encargos",
+    "nombre": "Encargos",
+    "lema": "Con antelación.",
+    "descripcion": "Ejemplo de sección de encargos. Este prototipo no gestiona pedidos.",
+    "items": [
+      "Celebraciones",
+      "Piezas enteras"
+    ],
+    "icono": "icono4"
+  }
+]
