@@ -1,0 +1,5 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title><?= e($negocio['name']) ?> | Prototipo PHP</title><link rel="stylesheet" href="assets/css/style.css"><script defer src="assets/js/app.js"></script></head>
+<body class="<?= $negocio['slug']==='teide-php' ? 'teide' : 'restaurante' ?>"><a class="skip" href="#contenido">Saltar al contenido</a>
+<div class="demo">PROTOTIPO NO OFICIAL · Solo para aprendizaje · Sin envíos, compras ni reservas reales</div>
+<div class="wrap"><header><a class="logo" href="index.php"><?= e($negocio['name']) ?></a><button class="menu-toggle" aria-expanded="false" aria-controls="navegacion">Menú</button><nav id="navegacion" aria-label="Principal"><a href="index.php#propuesta">Propuesta</a><a href="index.php#catalogo"><?= $negocio['slug']==='teide-php' ? 'Servicios' : 'Carta demo' ?></a><a href="index.php#contacto">Dónde estamos</a><a href="consulta.php">Formulario demo</a></nav></header></div>

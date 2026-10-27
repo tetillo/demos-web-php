@@ -1,0 +1,49 @@
+[
+  {
+    "id": "corte",
+    "nombre": "Corte",
+    "lema": "Un estilo a tu medida.",
+    "descripcion": "Ejemplo de sección de corte. Los servicios reales hay que confirmarlos.",
+    "items": [
+      "Mujer",
+      "Hombre",
+      "Niños"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "color",
+    "nombre": "Color",
+    "lema": "Mechas y tintes.",
+    "descripcion": "Ejemplo de sección de color.",
+    "items": [
+      "Tinte",
+      "Mechas",
+      "Balayage"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "peinados",
+    "nombre": "Peinados",
+    "lema": "Para eventos.",
+    "descripcion": "Ejemplo de sección de peinados.",
+    "items": [
+      "Recogidos",
+      "Ondas",
+      "Novias"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "tratamientos",
+    "nombre": "Tratamientos",
+    "lema": "Cuidado del cabello.",
+    "descripcion": "Ejemplo de sección de tratamientos.",
+    "items": [
+      "Hidratación",
+      "Keratina"
+    ],
+    "icono": "icono4"
+  }
+]

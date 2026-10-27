@@ -1,0 +1,17 @@
+{
+  "slug": "teide-php",
+  "name": "Ferretería Teide",
+  "kind": "Ferretería · Pinto",
+  "headline": "Ideas claras.<br>Manos a la obra.",
+  "intro": "Un diseño de barrio para encontrar servicios y explicar lo que necesitas. Directo, práctico y fácil de usar.",
+  "address": "Calle Valdemoro, 11 · 28320 Pinto, Madrid",
+  "phone": "91 692 10 62",
+  "email": "ejemplo@example.com",
+  "hours": "Lunes a viernes: 9:00-14:00 y 17:00-20:00. Sábado: 9:00-14:00. Domingo: no indicado en la web consultada.",
+  "source": "https://ferreteriateide.es/",
+  "distance": "A unos 106 m a pie de Las Delicias de Nury. La más cercana de las ferreterías encontradas, no un censo exhaustivo.",
+  "section": "Soluciones para cada proyecto",
+  "note": "Servicios publicados en la web oficial. No es un catálogo de stock: aquí no se compra, no se muestran precios y no se confirma disponibilidad.",
+  "about": "Ferretería Teide 2016, S.L. publica servicios de ferretería, carpintería, cerrajería y reparaciones domésticas para particulares y profesionales. Esta propuesta reorganiza esa información para un ejercicio de desarrollo.",
+  "image": "herramientas.svg"
+}

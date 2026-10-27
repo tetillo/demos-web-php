@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Hogar",
+    "name": "Ferretería",
+    "description": "Productos y asesoramiento para proyectos del hogar y profesionales, según la web oficial."
+  },
+  {
+    "category": "Hogar",
+    "name": "Reparaciones domésticas",
+    "description": "Una sección para explicar las necesidades de reparación."
+  },
+  {
+    "category": "Oficios",
+    "name": "Carpintería",
+    "description": "Servicio anunciado en la web oficial del negocio."
+  },
+  {
+    "category": "Oficios",
+    "name": "Cerrajería",
+    "description": "Servicio anunciado en la web oficial del negocio."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mujer",
+    "nombre": "Mujer",
+    "lema": "Comodidad y estilo.",
+    "descripcion": "Ejemplo de sección de calzado de mujer. Las marcas reales se desconocen.",
+    "items": [
+      "Zapatos",
+      "Sandalias",
+      "Botas"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "hombre",
+    "nombre": "Hombre",
+    "lema": "Para cada día.",
+    "descripcion": "Ejemplo de sección de calzado de hombre.",
+    "items": [
+      "Zapatos",
+      "Zapatillas"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "nios",
+    "nombre": "Niños",
+    "lema": "Para crecer.",
+    "descripcion": "Ejemplo de sección de calzado infantil.",
+    "items": [
+      "Colegio",
+      "Deporte"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "cuidadodelcalzado",
+    "nombre": "Cuidado del calzado",
+    "lema": "Que dure más.",
+    "descripcion": "Ejemplo de sección. No se sabe si el negocio vende estos productos.",
+    "items": [
+      "Cremas",
+      "Plantillas"
+    ],
+    "icono": "icono4"
+  }
+]

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio · Calzados Martín</title>
+    <meta name="description" content="Zapatería en Pinto (Madrid). Prototipo de ejemplo, no es la web oficial.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/estilos.css">
+    <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+</head>
+<body>
+<header class="topbar">
+    <a class="topbar-marca" href="index.php">
+        <img src="assets/img/logo.svg" alt="Logotipo de Calzados Martín" width="44" height="44">
+        <span>Calzados Martín</span>
+    </a>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+    <nav class="menu" id="menu">
+        <a href="index.php#sobre-nosotros">Sobre nosotros</a>
+        <a href="index.php#productos">Servicios y productos</a>
+        <a href="index.php#galeria">Galería</a>
+        <a href="index.php#contacto">Contacto</a>
+    </nav>
+</header>
+<main>
+
+<!-- ===================== PORTADA ===================== -->
+<section class="hero" id="inicio">
+    <img class="hero-logo" src="assets/img/logo.svg" alt="Logotipo de Calzados Martín">
+    <p class="hero-eslogan">Calzado para toda la familia en Pinto.</p>
+    <h1>Calzados<br>Martín</h1>
+    <nav class="hero-botones">
+        <a class="boton" href="#sobre-nosotros">Sobre nosotros</a>
+        <a class="boton" href="#productos">Servicios y productos</a>
+        <a class="boton" href="#galeria">Galería</a>
+        <a class="boton" href="#contacto">Contacto</a>
+    </nav>
+    <p class="hero-estado abierto">
+        Abierto ahora (según horario de ejemplo, no real)
+    </p>
+</section>
+
+<!-- ===================== SOBRE NOSOTROS ===================== -->
+<section class="seccion" id="sobre-nosotros">
+    <h2>Sobre nosotros</h2>
+    <p><strong>Calzados Martín</strong> es una zapatería de Pinto. Esta web es un prototipo de ejemplo para enseñar cómo podría verse el negocio online.</p>
+    <p>Está en <a href="https://www.google.com/maps/search/?api=1&amp;query=Calzados+Mart%C3%ADn&amp;query_place_id=ChIJOz6iqXkfQg0RBJhmWhmwS9U" target="_blank" rel="noopener"><strong>C. del Hospital, 11, 28320 Pinto, Madrid</strong></a>. Marcas, tallas, horario y contacto son de muestra hasta confirmarlos con el negocio.</p>
+    <p class="nota-horario">Texto de ejemplo escrito para este prototipo: no procede del negocio.</p>
+</section>
+
+<!-- ===================== PRODUCTOS ===================== -->
+<section class="seccion" id="productos">
+    <h2>Servicios y productos</h2>
+    <p class="seccion-intro">Secciones de ejemplo. Los servicios, productos y precios reales están pendientes de confirmar con el negocio.</p>
+
+    <div class="categorias">
+                    <article class="categoria" id="mujer">
+                <p class="categoria-icono" aria-hidden="true">
+                    <img src="assets/img/iconos/icono1.svg" alt="" width="46" height="46">
+                </p>
+                <p class="categoria-lema">Comodidad y estilo.</p>
+                <h3>Mujer</h3>
+                <p>Ejemplo de sección de calzado de mujer. Las marcas reales se desconocen.</p>
+                <ul class="chips">
+                                            <li>Zapatos</li>
+                                            <li>Sandalias</li>
+                                            <li>Botas</li>
+                                    </ul>
+                <a class="boton boton-pequeno" href="#contacto">Contacto</a>
+            </article>
+                    <article class="categoria" id="hombre">
+                <p class="categoria-icono" aria-hidden="true">
+                    <img src="assets/img/iconos/icono2.svg" alt="" width="46" height="46">
+                </p>
+                <p class="categoria-lema">Para cada día.</p>
+                <h3>Hombre</h3>
+                <p>Ejemplo de sección de calzado de hombre.</p>
+                <ul class="chips">
+                                            <li>Zapatos</li>
+                                            <li>Zapatillas</li>
+                                    </ul>
+                <a class="boton boton-pequeno" href="#contacto">Contacto</a>
+            </article>
+                    <article class="categoria" id="nios">
+                <p class="categoria-icono" aria-hidden="true">
+                    <img src="assets/img/iconos/icono3.svg" alt="" width="46" height="46">
+                </p>
+                <p class="categoria-lema">Para crecer.</p>
+                <h3>Niños</h3>
+                <p>Ejemplo de sección de calzado infantil.</p>
+                <ul class="chips">
+                                            <li>Colegio</li>
+                                            <li>Deporte</li>
+                                    </ul>
+                <a class="boton boton-pequeno" href="#contacto">Contacto</a>
+            </article>
+                    <article class="categoria" id="cuidadodelcalzado">
+                <p class="categoria-icono" aria-hidden="true">
+                    <img src="assets/img/iconos/icono4.svg" alt="" width="46" height="46">
+                </p>
+                <p class="categoria-lema">Que dure más.</p>
+                <h3>Cuidado del calzado</h3>
+                <p>Ejemplo de sección. No se sabe si el negocio vende estos productos.</p>
+                <ul class="chips">
+                                            <li>Cremas</li>
+                                            <li>Plantillas</li>
+                                    </ul>
+                <a class="boton boton-pequeno" href="#contacto">Contacto</a>
+            </article>
+            </div>
+</section>
+
+<!-- ===================== GALERÍA ===================== -->
+<section class="seccion" id="galeria">
+    <h2>Galería</h2>
+    <p class="seccion-intro">Imágenes de ejemplo. Sustitúyelas por fotos reales del negocio, con su permiso.</p>
+    <div class="galeria-grid">
+                    <figure>
+                <img src="assets/img/galeria-1.svg" alt="Imagen de ejemplo: Escaparate" loading="lazy">
+                <figcaption>Escaparate</figcaption>
+            </figure>
+                    <figure>
+                <img src="assets/img/galeria-2.svg" alt="Imagen de ejemplo: Zapatos" loading="lazy">
+                <figcaption>Zapatos</figcaption>
+            </figure>
+                    <figure>
+                <img src="assets/img/galeria-3.svg" alt="Imagen de ejemplo: Sandalias" loading="lazy">
+                <figcaption>Sandalias</figcaption>
+            </figure>
+                    <figure>
+                <img src="assets/img/galeria-4.svg" alt="Imagen de ejemplo: Zapatillas" loading="lazy">
+                <figcaption>Zapatillas</figcaption>
+            </figure>
+                    <figure>
+                <img src="assets/img/galeria-5.svg" alt="Imagen de ejemplo: Niños" loading="lazy">
+                <figcaption>Niños</figcaption>
+            </figure>
+                    <figure>
+                <img src="assets/img/galeria-6.svg" alt="Imagen de ejemplo: Local" loading="lazy">
+                <figcaption>Local</figcaption>
+            </figure>
+            </div>
+</section>
+
+<!-- ===================== CONTACTO ===================== -->
+<section class="seccion" id="contacto">
+    <h2>Contáctanos</h2>
+    <p class="seccion-intro">
+        Formulario de demostración: valida los datos en PHP pero no envía nada al negocio.
+    </p>
+
+    <div class="contacto-columnas">
+        <div class="contacto-info">
+            <p><span class="etiqueta">Teléfono</span>
+                Pendiente de confirmar</p>
+            <p><span class="etiqueta">Email</span>
+                Pendiente de confirmar</p>
+            <p><span class="etiqueta">Dirección</span>
+                <a href="https://www.google.com/maps/search/?api=1&amp;query=Calzados+Mart%C3%ADn&amp;query_place_id=ChIJOz6iqXkfQg0RBJhmWhmwS9U" target="_blank" rel="noopener">C. del Hospital, 11, 28320 Pinto, Madrid</a></p>
+            <div class="horario">
+                <p class="etiqueta">Horario de EJEMPLO inventado · pendiente de confirmar</p>
+                <p>Lun a Vie:
+                                            <span>09:30 a 14:00</span>
+                                            <span>17:00 a 20:00</span>
+                                    </p>
+                <p>Sáb y Dom:
+                                            <span>10:00 a 14:00</span>
+                                    </p>
+                <p class="estado abierto">
+                    Abierto ahora                </p>
+                <p class="nota-horario">El estado se calcula con este horario de muestra, no con un horario real verificado.</p>
+            </div>
+        </div>
+
+        <div class="contacto-form">
+            <h3>Escríbenos (demostración)</h3>
+            <form class="formulario" action="contacto.php" method="post" novalidate>
+    <div class="campo">
+        <label for="nombre">Nombre *</label>
+        <input type="text" id="nombre" name="nombre" value="" required>
+            </div>
+    <div class="campo">
+        <label for="email">Email *</label>
+        <input type="email" id="email" name="email" value="" required>
+            </div>
+    <div class="campo">
+        <label for="telefono">Teléfono (opcional)</label>
+        <input type="tel" id="telefono" name="telefono" value="">
+            </div>
+    <div class="campo">
+        <label for="mensaje">Mensaje *</label>
+        <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+            </div>
+    <button type="submit" class="boton">Mandar</button>
+</form>
+        </div>
+    </div>
+</section>
+
+</main>
+<footer class="pie">
+    <img src="assets/img/logo.svg" alt="" width="64" height="64">
+    <p class="pie-nombre">Calzados Martín</p>
+    <p>C. del Hospital, 11, 28320 Pinto, Madrid</p>
+    <p class="pie-aviso">Prototipo de ejemplo, sin ánimo comercial. No es la web oficial del negocio ni está hecho por él.</p>
+    <p>© 2026 Calzados Martín. Prototipo de práctica.</p>
+</footer>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

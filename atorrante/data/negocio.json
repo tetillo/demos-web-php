@@ -1,0 +1,17 @@
+{
+  "slug": "atorrante-php",
+  "name": "Atorrante",
+  "kind": "Restaurante · Pinto",
+  "headline": "Cocina con<br>personalidad.",
+  "intro": "Una propuesta de web para un restaurante del barrio. Una mesa, buena conversación y una cocina con historia.",
+  "address": "Calle Nicaragua, 15 · 28320 Pinto, Madrid",
+  "phone": "915 568 615",
+  "email": "ejemplo@example.com",
+  "hours": "Lunes: cerrado. Martes, miércoles, jueves y domingo: 13:00-17:30. Viernes y sábado: 13:00-00:00.",
+  "source": "https://www.atorrante.es/",
+  "distance": "A unos 230 m a pie de Las Delicias de Nury, según la ruta consultada.",
+  "section": "Una carta para probar el diseño",
+  "note": "CARTA FICTICIA DE DEMOSTRACIÓN. Estos platos no son la carta de Atorrante. No se atribuyen precios, disponibilidad ni alérgenos al restaurante.",
+  "about": "La web oficial presenta el restaurante de Emiliano Solivellas en Pinto, con una cocina personal y una carta de vinos. Este diseño es un ejercicio independiente, no una web aprobada por el negocio.",
+  "image": "restaurante.svg"
+}

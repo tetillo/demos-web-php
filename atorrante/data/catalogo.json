@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Para compartir",
+    "name": "Croquetas de ejemplo",
+    "description": "Una tarjeta para mostrar el nombre y la descripción de un plato."
+  },
+  {
+    "category": "Para compartir",
+    "name": "Ensalada de ejemplo",
+    "description": "Contenido ficticio editable en el archivo JSON."
+  },
+  {
+    "category": "Principales",
+    "name": "Arroz de ejemplo",
+    "description": "Una propuesta visual, no un plato verificado."
+  },
+  {
+    "category": "Principales",
+    "name": "Verduras de ejemplo",
+    "description": "Texto de muestra para practicar el catálogo."
+  },
+  {
+    "category": "Postres",
+    "name": "Tarta de ejemplo",
+    "description": "Un cierre dulce ficticio para esta demostración."
+  },
+  {
+    "category": "Postres",
+    "name": "Fruta de ejemplo",
+    "description": "Sustituye estos datos por la carta autorizada."
+  }
+]
