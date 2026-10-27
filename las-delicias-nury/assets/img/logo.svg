@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="96" fill="#e0578f" stroke="#5b3a44" stroke-width="4"/>
+  <path d="M100 150 C60 122 38 100 38 76 C38 58 52 46 68 46 C82 46 94 55 100 68 C106 55 118 46 132 46 C148 46 162 58 162 76 C162 100 140 122 100 150 Z"
+        fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <text x="100" y="92" text-anchor="middle" font-family="'Dancing Script', cursive" font-size="22" fill="#ffffff">Las Delicias</text>
+  <text x="100" y="114" text-anchor="middle" font-family="'Dancing Script', cursive" font-size="22" fill="#ffffff">de Nury</text>
+  <text x="100" y="134" text-anchor="middle" font-family="'Quicksand', sans-serif" font-size="10" fill="#ffe3ee" letter-spacing="1">PANADERÍA Y PASTELERÍA</text>
+</svg>

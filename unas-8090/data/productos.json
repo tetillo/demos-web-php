@@ -1,0 +1,49 @@
+[
+  {
+    "id": "manicura",
+    "nombre": "Manicura",
+    "lema": "Manos con estilo.",
+    "descripcion": "Ejemplo de sección de manicura. Los servicios reales hay que confirmarlos.",
+    "items": [
+      "Manicura clásica",
+      "Esmaltado semipermanente",
+      "Uñas decoradas"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "pedicura",
+    "nombre": "Pedicura",
+    "lema": "Pies cuidados.",
+    "descripcion": "Ejemplo de sección de pedicura.",
+    "items": [
+      "Pedicura clásica",
+      "Pedicura con esmalte"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "uasesculpidas",
+    "nombre": "Uñas esculpidas",
+    "lema": "Largo y forma a tu gusto.",
+    "descripcion": "Ejemplo de sección para uñas esculpidas.",
+    "items": [
+      "Gel",
+      "Acrílico",
+      "Rellenos"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "reservarcita",
+    "nombre": "Reservar cita",
+    "lema": "Sin reservas reales aquí.",
+    "descripcion": "Ejemplo: aquí iría la forma real de pedir cita. Este prototipo no reserva nada.",
+    "items": [
+      "Teléfono",
+      "Formulario",
+      "Redes"
+    ],
+    "icono": "icono4"
+  }
+]

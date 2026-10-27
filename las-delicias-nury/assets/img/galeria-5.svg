@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#fbe8d3"/>
+  <g transform="translate(146,58) scale(2.25)" fill="none" stroke="#c23a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M17 15h14l5 21H12l5-21z"/>
+  <path d="M17 15c2.2 3.2 11.8 3.2 14 0"/>
+  <path d="M8 40h32"/>
+  </g>
+  <text x="200" y="235" text-anchor="middle" font-family="'Quicksand', sans-serif" font-size="24" font-weight="600" fill="#5b3a44">Rosquillas</text>
+</svg>

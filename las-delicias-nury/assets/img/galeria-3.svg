@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#fdeef3"/>
+  <g transform="translate(146,58) scale(2.25)" fill="none" stroke="#c23a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M10 30.5c-3.2-2.2-4.4-6.4-2.4-9.4 1.2-1.9 3.8-2.8 5.9-1.9 1.9-3.2 6-5.2 10.5-5.2s8.6 2 10.5 5.2c2.1-.9 4.7 0 5.9 1.9 2 3 .8 7.2-2.4 9.4-4.2 2.8-9 4.5-14 4.5s-9.8-1.7-14-4.5z"/>
+  <path d="M18 20.5c-1.2 3.4-1.2 7.4.5 11M30 20.5c1.2 3.4 1.2 7.4-.5 11"/>
+  </g>
+  <text x="200" y="235" text-anchor="middle" font-family="'Quicksand', sans-serif" font-size="24" font-weight="600" fill="#5b3a44">Croissants</text>
+</svg>

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "limpiezaenseco",
+    "nombre": "Limpieza en seco",
+    "lema": "Prendas delicadas.",
+    "descripcion": "Ejemplo de sección de limpieza en seco. Servicios por confirmar.",
+    "items": [
+      "Trajes",
+      "Vestidos",
+      "Abrigos"
+    ],
+    "icono": "icono1"
+  },
+  {
+    "id": "lavanderia",
+    "nombre": "Lavandería",
+    "lema": "Ropa de casa.",
+    "descripcion": "Ejemplo de sección de lavandería.",
+    "items": [
+      "Edredones",
+      "Cortinas",
+      "Mantas"
+    ],
+    "icono": "icono2"
+  },
+  {
+    "id": "planchado",
+    "nombre": "Planchado",
+    "lema": "Listo para vestir.",
+    "descripcion": "Ejemplo de sección de planchado.",
+    "items": [
+      "Camisas",
+      "Pantalones"
+    ],
+    "icono": "icono3"
+  },
+  {
+    "id": "arreglos",
+    "nombre": "Arreglos",
+    "lema": "Pequeños retoques.",
+    "descripcion": "Ejemplo de sección de arreglos. No se sabe si el negocio los ofrece.",
+    "items": [
+      "Bajos",
+      "Cremalleras"
+    ],
+    "icono": "icono4"
+  }
+]
